@@ -17,3 +17,4 @@
 🈚️
 
 ## License
+WTFPL v2.0
